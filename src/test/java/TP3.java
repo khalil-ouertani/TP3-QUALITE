@@ -16,7 +16,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class TP3 {
+public class ToDoMVC {
 	WebDriver driver;
     JavascriptExecutor js;
     
